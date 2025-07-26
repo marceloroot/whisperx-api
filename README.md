@@ -120,7 +120,7 @@ cd ..
 ```
 C:\Program Files\NVIDIA\CUDNN\v8.9.4\bin
 ```
-
+- Se tiver outra versao renomei para old
 ---
 
 #### 🛠️ Adicione ao PATH do sistema
