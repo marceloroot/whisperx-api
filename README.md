@@ -18,7 +18,7 @@ Este projeto oferece uma API local para transcrição de áudios utilizando o mo
 ### 🧬 Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/marceloroot/whisperx-api.git
 cd seu-repo
 ```
 
